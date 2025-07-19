@@ -29,7 +29,7 @@ go-crud-api/
 
    ```bash
    git clone https://github.com/4kshi7/go-playground.git
-   cd go-crud-api
+   cd go-playground
    ```
 
 2. **Initialize Go module (if not done):**
@@ -85,14 +85,4 @@ The server will start at [http://localhost:8080](http://localhost:8080)
 * Unit tests
 
 ---
-
-## 🧑‍💻 Author
-
-Made by \[Your Name]
-
----
-
-## 🪪 License
-
-This project is licensed under the MIT License.
 
