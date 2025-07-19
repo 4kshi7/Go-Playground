@@ -1,5 +1,4 @@
-````markdown
-# 📘 Go CRUD API with Gin
+## 📘 Go CRUD API with Gin
 
 This is a simple RESTful API built using [Go](https://golang.org/) and the [Gin](https://github.com/gin-gonic/gin) web framework. It demonstrates basic CRUD operations (Create, Read, Update, Delete) using in-memory storage.
 
